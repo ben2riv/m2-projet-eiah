@@ -1,2 +1,2 @@
 # m2-projet-eiah
-Projet Calcul d'Indicateurs EIAH
+Calcul d'Indicateurs EIAH 2022
