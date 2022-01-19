@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"IDNote","STRING","0","0","0"
+"Username","STRING","0","0","0"
+"Share","STRING","0","0","0"
+"Nbmax","STRING","0","0","0"
+"Note","STRING","0","0","0"
+"Date","STRING","0","0","0"
+"Lastaccess","STRING","0","0","0"

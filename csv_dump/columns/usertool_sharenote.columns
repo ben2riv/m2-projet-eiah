@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"IDShare","STRING","0","0","0"
+"Username","STRING","0","0","0"
+"IDNote","STRING","0","0","0"
+"Dateshare","STRING","0","0","0"
+"Lastaccess","STRING","0","0","0"

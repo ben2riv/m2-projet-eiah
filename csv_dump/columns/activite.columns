@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"IDAct","INTEGER","2","2","0"
+"Titre","STRING","57","0","0"
+"TypeAct","INTEGER","1","1","0"
+"IDCat","INTEGER","1","1","0"
